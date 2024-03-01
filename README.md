@@ -2,7 +2,7 @@
 
 TJ 노래방에서 가요 인기차트를 크로링하여 저장하는 코드
 
-**다운 받아 오는 모든 정보는 (https://www.tjmedia.com/tjsong/song_monthPopular.asp)[여기] 에서 가지고 온 정보입니다.
+**다운 받아 오는 모든 정보는 [https://www.tjmedia.com/tjsong/song_monthPopular.asp](여기) 에서 가지고 온 정보입니다.
 해당 코드는 `TJ 노래방`의 공식 api가 아닙니다.
 만약, 해당 레포지토리 삭제 요청을 하시려면 이슈나, 디스코드 rost0816에 문의 해주세요.**
 
